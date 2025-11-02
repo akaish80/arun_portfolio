@@ -5,7 +5,7 @@ module.exports = {
   images: {
     unoptimized: true
   },
-  assetPrefix: '/portfolio',
-  basePath: '/portfolio',
+  assetPrefix: '/arun_portfolio',
+  basePath: '/arun_portfolio',
   output: 'export'
 }
