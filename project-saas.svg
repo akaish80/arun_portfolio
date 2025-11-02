@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="saasGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4f46e5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#saasGrad)"/>
+  <g opacity="0.1">
+    <circle cx="150" cy="100" r="90" fill="#fff"/>
+    <circle cx="650" cy="350" r="110" fill="#fff"/>
+  </g>
+  <!-- Cloud shape -->
+  <ellipse cx="300" cy="180" rx="80" ry="50" fill="#fff" opacity="0.3"/>
+  <ellipse cx="350" cy="180" rx="90" ry="60" fill="#fff" opacity="0.3"/>
+  <ellipse cx="420" cy="180" rx="80" ry="50" fill="#fff" opacity="0.3"/>
+  <rect x="240" y="180" width="240" height="60" fill="#fff" opacity="0.3"/>
+  <!-- AI Brain icon -->
+  <circle cx="400" cy="250" r="70" fill="#fff" opacity="0.9"/>
+  <path d="M 360 250 Q 380 220 400 250 T 440 250" stroke="#6366f1" stroke-width="4" fill="none"/>
+  <path d="M 360 260 Q 380 280 400 260 T 440 260" stroke="#6366f1" stroke-width="4" fill="none"/>
+  <circle cx="380" cy="235" r="6" fill="#6366f1"/>
+  <circle cx="420" cy="235" r="6" fill="#6366f1"/>
+</svg>
